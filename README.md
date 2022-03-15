@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afonso</h1>
 <h3 align="center">A passionate full stack developer from Lisbon, Portugal</h3>
 
-- 🔭 I’m currently working on some personal projects [What's for dinner](https://www.whatsfordinner.digital/)
+- 🔭 I’m currently working on some personal projects [What's for dinner (mobile Web app)](https://www.whatsfordinner.digital/)
 
 - 📫 How to reach me **afonso.miguel1995@gmail.com**
 
